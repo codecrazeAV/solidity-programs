@@ -7,6 +7,6 @@ amount in gwei, ether and wei.
 assignment 3 is named as basicop.sol in this assignment I have implemented few basic operations like addition, substraction, multiplication and devision
 in solidity.
 
-Final assignment is named as myfirsttoken.sol, in this I have created a contract and inside that contract I have created a token named
+Final assignment is named as MyfirstToken.sol, in this I have created a contract and inside that contract I have created a token named
 coinVajrastra and this token has 2 most basic functionalities of a token which is burn and mint function which can increment balance of an
 address with value passed into the mint function and deduct token amount with the value passed in the burn function.
